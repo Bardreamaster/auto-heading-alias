@@ -1,11 +1,14 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+    "id": "auto-heading-alias",
+    "name": "Auto Heading Alias",
+    "version": "1.0.0",
+    "minAppVersion": "1.12.4",
+    "description": "Automatically creates aliases for heading links.",
+    "author": "Wei Jinqi",
+    "authorUrl": "https://weijinqi.com",
+    "fundingUrl": {
+        "Buy Me a Coffee": "https://buymeacoffee.com/changshan",
+        "GitHub Sponsor": "https://github.com/sponsors/Bardreamaster"
+    },
+    "isDesktopOnly": false
 }
