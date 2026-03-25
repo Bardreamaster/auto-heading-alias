@@ -3,7 +3,7 @@
     "name": "Auto Heading Alias",
     "version": "1.0.0",
     "minAppVersion": "1.12.4",
-    "description": "Automatically creates aliases for heading links.",
+    "description": "Automatically adds display text for heading links.",
     "author": "Wei Jinqi",
     "authorUrl": "https://weijinqi.com",
     "fundingUrl": {
